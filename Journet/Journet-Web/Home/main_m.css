@@ -66,7 +66,7 @@ header .menu .menu_button li:nth-child(3) {
   align-self: stretch;
   gap: 5px;
   padding: 0;
-  color: blue;
+  /* color: blue; */
 }
 
 .section01 .title h2 {
@@ -206,7 +206,7 @@ header .menu .menu_button li:nth-child(3) {
   align-items: flex-start;
   flex-direction: column;
   gap: 5px;
-  color: blue;
+  /* color: blue; */
 }
 
 .section04 .title h2 {
